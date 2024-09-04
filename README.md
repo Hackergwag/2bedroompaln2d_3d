@@ -20,7 +20,7 @@ The project comprises a 2Bedroom 2d and 3d ground floor plan with elevations. Th
 <br />
 <br />
 3d Plan Review:  <br/>
-(https://www.mediafire.com/file/chx4dnnh1cs8rn8/LJGEE1608.mp4/file)
+(https://www.mediafire.com/file/wqizrjqlr326qzc/LJGEE1608.mp4/file)
 </p>
 
 <!--
